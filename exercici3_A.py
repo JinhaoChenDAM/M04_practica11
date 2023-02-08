@@ -1,6 +1,4 @@
 import random
-
-
 # Asks the user to guess a random number from 0 to 100.
 def guessFrom0to100():
     ans = random.randrange(0, 100)
